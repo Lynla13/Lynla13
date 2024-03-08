@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## ABOUT ME
-- I am Bach Hong Phu (lynla13), a Backend Developer Student
-- I'm getting in touch to let you know that I'm currently searching for a new job opportunity
+I am Bach Hong Phu (lynla13), a Backend Developer Student who is passionate about making IT projects, creating technology to elevate people.
+
+🔭 I’m currently working on my scrapt project
 
 <!--
 **Lynla13/Lynla13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
